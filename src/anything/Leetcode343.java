@@ -26,8 +26,8 @@ public class Leetcode343 {
             // return breakInteger(n);
             ans[1] = 1;
             for (int i = 2; i <= n; i++) {
-                for (int j = 0; j < i; j++) {
-                    ans[i] = maxThree(ans[i],i*(n-i),i*ans[n-i]);
+                for (int j = 1; j < i; j++) {
+                    ans[i] = maxThree(ans[i],j*(i-j),j*ans[i-j]);
                 }
             }
             return ans[n];
