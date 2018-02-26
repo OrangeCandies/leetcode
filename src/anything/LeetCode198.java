@@ -2,40 +2,29 @@ package anything;
 
 public class LeetCode198 {
     class Solution {
-
-        int [] ans;
         public int rob(int[] nums) {
+
             if(nums == null || nums.length == 0){
                 return 0;
             }
-            ans = new int[nums.length+1];
-            for(int i=0;i<nums.length+1;i++){
-                ans[i] = -1;
+            int sz = nums.length;
+            int[] answer = new int[sz + 1];
+            for (int i = 0; i < sz + 1; i++) {
+                answer[i] = 0;
             }
-            return tryRob(nums,0);
+            answer[sz-1] = nums[sz-1];
+            for(int i=sz-2; i>=0; i--){
+                answer[i] = Math.max(answer[i+1],nums[i]+(i+2>=sz?0:answer[i+2]));
+            }
+            return answer[0];
         }
 
-        private int tryRob(int []nums, int index){
-           if(index >= nums.length){
-               return 0;
-           }
-           if(ans[index] != -1){
-               return ans[index];
-           }
-           int res = 0;
-           for(int i=index;i<nums.length;i++){
-               res = Math.max(res,nums[i]+tryRob(nums,i+2));
-           }
-           ans[index] = res;
-           return res;
-        }
     }
 
     public static void main(String[] args) {
-        LeetCode198 leetCode198 = new LeetCode198();
-        Solution solution = leetCode198.new Solution();
-        int [] test = new int[]{4,1,2,7,5,3,1};
-        int a = solution.rob(test);
-        System.out.println(a);
+        Solution solution = new LeetCode198().new Solution();
+        int[] tes = new int[]{2,1};
+        int rob = solution.rob(tes);
+        System.out.println(rob);
     }
 }
