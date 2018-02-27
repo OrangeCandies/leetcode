@@ -18,10 +18,13 @@ public class Leetcode746 {
     }
 
     public static void main(String[] args) {
-        Leetcode746 leetcode746 = new Leetcode746();
-        Solution solution =  leetcode746.new Solution();
-        int [] test = new int[]{1,0,0,0};
-        int ans = solution.minCostClimbingStairs(test);
-        System.out.println(ans);
+
+       String a = "abc";
+       String e = "abc";
+        System.out.println(a == e);
+       String b = new String(a);
+       String c = new String(a);
+        System.out.println(a == b);
+        System.out.println(c == b);
     }
 }
