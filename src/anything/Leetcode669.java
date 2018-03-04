@@ -19,7 +19,6 @@ public class Leetcode669 {
         }
     }
 
-  
     class TreeNode {
         int val;
         TreeNode left;
