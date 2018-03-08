@@ -27,10 +27,5 @@ public class LeetCode53 {
         int [] data = new int[]{-2,1,-3,4,-1,2,1,-5,4};
         int i = solution.maxSubArray(data);
         System.out.println(i);
-        try {
-            Thread.sleep(2000);
-        } catch (InterruptedException e) {
-             e.addSuppressed();
-        }
     }
 }

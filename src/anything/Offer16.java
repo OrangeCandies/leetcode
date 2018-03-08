@@ -15,18 +15,31 @@ public class Offer16 {
     }
 
     public static LinkNode reveserList(LinkNode head){
+//        if(head == null){
+//            return null;
+//        }
+//        LinkNode newHead = null;
+//        LinkNode nextNode = head;
+//        LinkNode currentNode = null;
+//        while(nextNode != null){
+//            currentNode = nextNode;
+//            nextNode = nextNode.next;
+//            currentNode.next = newHead;
+//            newHead = currentNode;
+//
+//        }
+//        return newHead;
         if(head == null){
             return null;
         }
+        LinkNode cur = null;
+        LinkNode next = head;
         LinkNode newHead = null;
-        LinkNode nextNode = head;
-        LinkNode currentNode = null;
-        while(nextNode != null){
-            currentNode = nextNode;
-            nextNode = nextNode.next;
-            currentNode.next = newHead;
-            newHead = currentNode;
-
+        while (next != null){
+            cur = next;
+            next = next.next;
+            cur.next = newHead;
+            newHead = cur;
         }
         return newHead;
     }
