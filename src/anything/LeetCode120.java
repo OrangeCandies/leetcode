@@ -1,7 +1,6 @@
 package anything;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
 
 public class LeetCode120 {
@@ -10,7 +9,6 @@ public class LeetCode120 {
         List<Integer> row1 = new ArrayList<>();
         row1.add(-10);
         test.add(row1);
-        HashMap
 
         Solution2 solution = new Solution2();
         System.out.println(solution.minimumTotal(test));
