@@ -10,18 +10,17 @@ public class Leetcode167 {
             if(numbers == null || numbers.length == 0){
                 return null;
             }
-            while(i < j){
-                if(numbers[i] + numbers[j] == target){
+            while(i < j) {
+                if (numbers[i] + numbers[j] == target) {
                     ans[0] = i;
                     ans[1] = j;
                     break;
-                }else if(numbers[i] + numbers[j] < target){
+                } else if (numbers[i] + numbers[j] < target) {
                     i++;
-                }else{
+                } else {
                     j--;
                 }
             }
-
             return ans;
         }
     }
