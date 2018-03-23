@@ -13,7 +13,8 @@ public class Leetcode33 {
                 int mid = l + (r - l) / 2;
                 if (nums[mid] == target) {
                     return mid;
-                } else if (nums[l] <= nums[mid]) {
+                }else if (nums[l] <= nums[mid]) {
+                    // nums[i] == nums[mid] 是因为数组会有相同的序列的情况
                     if (target >= nums[l] && target < nums[mid]) {
                         r = mid - 1;
                     } else {
@@ -26,7 +27,6 @@ public class Leetcode33 {
                         r = mid - 1;
                     }
                 }
-
             }
 
             return -1;
