@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class Q2 {
 
     public static void main(String[] args) {
+
+
         Scanner scanner = new Scanner(System.in);
         int len = scanner.nextInt();
         int[] data = new int[len];
