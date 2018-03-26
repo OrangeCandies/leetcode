@@ -51,7 +51,7 @@ public class Heap {
 
             shiftDown(maxPos,size);
         }
-        
+
     }
 
     private void shiftUp(int size) {

@@ -29,7 +29,7 @@ public class Offer16 {
 //
 //        }
 //        return newHead;
-        if(head == null){
+/*        if(head == null){
             return null;
         }
         LinkNode cur = null;
@@ -40,6 +40,19 @@ public class Offer16 {
             next = next.next;
             cur.next = newHead;
             newHead = cur;
+        }
+        return newHead;
+  */
+        if(head == null){
+            return null;
+        }
+        LinkNode newHead = null;
+        LinkNode next = head.next;
+        while(head != null){
+            next = head.next;
+            head.next = newHead;
+            newHead = head;
+            head = next;
         }
         return newHead;
     }
