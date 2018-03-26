@@ -40,6 +40,11 @@ public class Bag01 {
                 }
             }
         }
-        return ans[weight.length][cost];
+        /*
+                for(int i =1; i < weight.length; i ++){
+                    for(int j = m;j >= weight[i]; j--){
+                        dp[j] = Math.max(dp[j],dp[j-weight[i]]+value[i]);
+         */
+        return ans[weight.length-1][cost];
     }
 }
