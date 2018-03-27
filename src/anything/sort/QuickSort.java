@@ -18,6 +18,7 @@ public class QuickSort {
         for(int i =0 ; i < arrayList.length; i ++){
             System.out.print(arrayList[i]+" ");
         }
+        
 
     }
 
