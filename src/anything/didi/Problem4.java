@@ -19,7 +19,6 @@ public class Problem4 {
             }
             strings.add(s);
         }
-
         return false;
     }
 
