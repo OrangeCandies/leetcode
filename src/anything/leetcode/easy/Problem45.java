@@ -1,0 +1,36 @@
+package anything.leetcode.easy;
+
+import java.util.Stack;
+
+public class Problem45 {
+
+    class Solution {
+        public boolean isValid(String s) {
+            Stack<Character> stack = new Stack<>();
+            if (s == null || s.length() == 0) {
+                return true;
+            }
+            for (char c : s.toCharArray()) {
+                if (c == '(' || c == '[' || c == '{') {
+                    stack.push(c);
+                } else if (stack.isEmpty()) {
+                    return false;
+                } else if (c == ')' && stack.peek() == '(') {
+                    stack.pop();
+                } else if (c == ']' && stack.peek() == '[') {
+                    stack.pop();
+                } else if (c == '}' && stack.peek() == '{') {
+                    stack.pop();
+                } else {
+                    return false;
+                }
+            }
+            if (stack.isEmpty()) {
+                return true;
+            } else {
+                return false;
+            }
+        }
+    }
+
+}
