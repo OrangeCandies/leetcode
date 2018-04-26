@@ -31,11 +31,12 @@ public class Problem13 {
             }
         }
     }
+    class TreeLinkNode{
+        TreeLinkNode left;
+        TreeLinkNode right;
+        TreeLinkNode next;
+    }
+
 
 }
 
-class TreeLinkNode{
-    TreeLinkNode left;
-    TreeLinkNode right;
-    TreeLinkNode next;
-}
