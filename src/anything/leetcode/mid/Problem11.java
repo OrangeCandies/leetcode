@@ -8,32 +8,51 @@ import java.util.Stack;
 
 public class Problem11 {
 
-    class Solution {
-        private List<List<Integer>> ans = new LinkedList<>();
-        private Stack<TreeNode> stack = new Stack<>();
-        public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-            if (root == null){
-                return ans;
-            }
-            stack.add(root);
-            while(!stack.isEmpty()){
-                List<Integer> row = new LinkedList<>();
-                Stack<TreeNode> next = new Stack<>();
-                while (!stack.isEmpty()){
-                    TreeNode pop = stack.pop();
-                    row.add(pop.val);
-                    if(pop.left != null){
-                        next.add(pop.left);
-                    }
-                    if(pop.right != null){
-                        next.add(pop.right);
-                    }
+ class Solution {
+    public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
+        // write your code here
+        List<List<Integer>> tree = new ArrayList<>();
+        if(root == null)
+            return tree;
+        // rightstack 出栈序列是 左到右该层元素
+        Stack<TreeNode> leftstack = new Stack<TreeNode>();
+        leftstack.push(root);
+        
+        // leftstack 出栈序列是 右到左该层元素
+        Stack<TreeNode> rightstack = new Stack<TreeNode>();
+        boolean left = true;
+        while(!leftstack.empty() || !rightstack.empty()){
+            ArrayList<Integer> list = new ArrayList<Integer>();
+            if(left){
+                int size = leftstack.size();
+                for(int i=0;i<size;i++){
+                    TreeNode node = leftstack.pop();
+                    list.add(node.val);
+                    if(node.left!=null)
+                        rightstack.push(node.left);
+                    if(node.right!=null)
+                        rightstack.push(node.right);
+                    
                 }
-                stack = next;
-                ans.add(row);
+            }else{
+                int size = rightstack.size();
+                for(int i=0;i<size;i++){
+                    TreeNode node = rightstack.pop();
+                    list.add(node.val);
+                    if(node.right!=null)
+                        leftstack.push(node.right);
+                    if(node.left!=null)
+                        leftstack.push(node.left);
+                    
+                }
             }
-            return ans;
+            left=!left;
+            tree.add(list);
+        }
+        return tree;
 
+    }
+}
         }
     }
 
