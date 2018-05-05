@@ -2,7 +2,7 @@ package anything.leetcode.mid;
 
 import anything.TreeNode;
 
-import java.util.LinkedList;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
@@ -54,7 +54,5 @@ public class Problem11 {
     }
 }
         }
-    }
 
 
-}
