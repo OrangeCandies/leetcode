@@ -1,6 +1,6 @@
 package anything.leetcode.mid;
 
-import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -15,39 +15,40 @@ public class Problem18 {
             if(nums == null || nums.length == 0){
                 return ans;
             }
-            for(int i =0; i < nums.length; i ++){
-                for(int j = i+1; j < nums.length; j++){
-
-                    ans.add(transfer(nums));
-                    swap(nums,i,j);
-                    ans.add(transfer(nums));
-                    swap(nums,i,j);
-                }
-            }
+            List<Integer> list = new LinkedList<>();
+            Arrays.stream(nums).forEach(e -> list.add(e));
+            getPermute(new LinkedList<>(),list);
             return ans;
         }
 
-        private void swap(int[] nums, int i, int j) {
-            int temp = nums[i];
-            nums[i] = nums[j];
-            nums[j] = temp;
+        private void getPermute(List<Integer> has,List<Integer> remain){
+            if(remain.size() == 0){
+                ans.add(has);
+                has.forEach(e -> System.out.print(e));
+                System.out.println();
+                return;
+            }
+            for(int i = 0; i < remain.size(); i ++){
+                has.add(remain.get(i));
+                remain.remove(i);
+
+                getPermute(has,remain);
+
+                Integer remove = has.remove(has.size() - 1);
+                remain.add(i,remove);
+            }
         }
 
-        private List<Integer> transfer(int[] nums) {
-            List<Integer> list = new ArrayList<>(nums.length);
-            for(int i : nums){
-                list.add(i);
-            }
-            list.forEach( o -> System.out.print(o));
-            System.out.println();
-            return list;
-        }
+
+
+
+
 
 
     }
 
     public static void main(String[] args) {
         Solution solution = new Problem18().new Solution();
-        solution.permute(new int[]{1,2,3});
+        List<List<Integer>> permute = solution.permute(new int[]{1, 2, 3});
     }
 }
