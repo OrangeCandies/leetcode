@@ -1,5 +1,6 @@
 package anything.leetcode.mid;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
@@ -23,7 +24,7 @@ public class Problem18 {
 
         private void getPermute(List<Integer> has,List<Integer> remain){
             if(remain.size() == 0){
-                ans.add(has);
+                ans.add(new ArrayList<>(has));
                 has.forEach(e -> System.out.print(e));
                 System.out.println();
                 return;
@@ -45,10 +46,5 @@ public class Problem18 {
 
 
 
-    }
-
-    public static void main(String[] args) {
-        Solution solution = new Problem18().new Solution();
-        List<List<Integer>> permute = solution.permute(new int[]{1, 2, 3});
     }
 }

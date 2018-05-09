@@ -46,14 +46,5 @@ public class Problem1 {
     }
 
 
-    public static void main(String[] args) {
-        Solution solution = new Problem1().new Solution();
-        List<List<Integer>> lists = solution.threeSum(new int[]{-2, 0, 0, 2, 2});
-        for (List<Integer> l : lists) {
-            for (int i : l) {
-                System.out.print(i + " ");
-            }
-            System.out.println();
-        }
-    }
+
 }

@@ -1,0 +1,1691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/anything/Leetcode264.java" line="24" />
+    <bookmark url="file://$PROJECT_DIR$/src/anything/didi/Problem1.java" line="5" />
+    <bookmark url="file://$PROJECT_DIR$/src/anything/didi/Problem4.java" line="49" />
+    <bookmark url="file://$PROJECT_DIR$/src/anything/leetcode/easy/Problem43.java" line="7" />
+    <bookmark url="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem5.java" line="5" />
+    <bookmark url="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem7.java" />
+    <bookmark url="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem7.java" line="21" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66376958-b89a-4db3-beb4-7a4385545dee" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/anything/leetcode/mid/Problem1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anything/leetcode/mid/Problem1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/anything/leetcode/mid/Problem18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anything/leetcode/mid/Problem18.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/leetcode$Q2.coverage" NAME="Q2 Coverage Results" MODIFIED="1521950752997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>anything.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="leetcode" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Problem11.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem11.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem17.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem17.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem18.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem18.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem13.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem13.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem14.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem14.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem12.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem12.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="18" column="97" selection-start-line="18" selection-start-column="97" selection-end-line="18" selection-end-column="97" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem15.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem15.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem16.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem16.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/anything/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#144#145#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>await</find>
+      <find>remove</find>
+      <find>add</find>
+      <find>acquire</find>
+      <find>acquire(</find>
+      <find>r</find>
+      <find>binCount</find>
+      <find>addCount(</find>
+      <find>get(</find>
+      <find>putVal(</find>
+      <find>f.hash</find>
+      <find>.hash</find>
+      <find>resize()</find>
+      <find>put(</find>
+      <find>putVal</find>
+      <find>isLetter(</find>
+      <find>Stack</find>
+      <find>execute(</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem16.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem17.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem18.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem19.java" />
+        <option value="$PROJECT_DIR$/src/linkedList/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem20.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem21.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem22.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem23.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem25.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem24.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem26.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem27.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem28.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem29.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem30.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem31.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem32.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem33.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem34.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem35.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem36.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem37.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem38.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem39.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem40.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem41.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem42.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem44.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem45.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem46.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem43.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/mid/Problem2.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/mid/Problem3.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/mid/Problem4.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/mid/Problem5.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/mid/Problem6.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/mid/Problem9.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/mid/Problem10.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/mid/Problem7.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/mid/Problem8.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/mid/Leetcode13.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/mid/Problem13.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/mid/Problem12.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/mid/Problem15.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/mid/Problem16.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/mid/Problem14.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/mid/Problem11.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/mid/Problem17.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/mid/Problem18.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/mid/Problem1.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring DataSpring</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="anything" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="anything" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="anything" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="mid" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/Eclipse/HomeWork/src/algorithm" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.14921875" />
+    <property name="project.structure.side.proportion" value="0.2913603" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Check\leetcode\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Problem18">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="Problem1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anything.leetcode.mid.Problem1" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="anything.leetcode.mid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Problem12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anything.leetcode.mid.Problem12" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="anything.leetcode.mid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Problem18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anything.leetcode.mid.Problem18" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="anything.leetcode.mid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Problem43" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anything.leetcode.easy.Problem43" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="anything.leetcode.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Problem44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anything.leetcode.easy.Problem44" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="anything.leetcode.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Problem43" />
+      <item itemvalue="Application.Problem44" />
+      <item itemvalue="Application.Problem1" />
+      <item itemvalue="Application.Problem12" />
+      <item itemvalue="Application.Problem18" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Problem18" />
+        <item itemvalue="Application.Problem12" />
+        <item itemvalue="Application.Problem1" />
+        <item itemvalue="Application.Problem43" />
+        <item itemvalue="Application.Problem44" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66376958-b89a-4db3-beb4-7a4385545dee" name="Default" comment="" />
+      <created>1517038322334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517038322334</updated>
+      <workItem from="1517038323787" duration="11473000" />
+      <workItem from="1517110951343" duration="3444000" />
+      <workItem from="1518420580337" duration="1477000" />
+      <workItem from="1518517197338" duration="213000" />
+      <workItem from="1518584903893" duration="5697000" />
+      <workItem from="1518601505109" duration="4063000" />
+      <workItem from="1518665875203" duration="4418000" />
+      <workItem from="1518678902159" duration="2873000" />
+      <workItem from="1518767339752" duration="3769000" />
+      <workItem from="1519443992455" duration="19546000" />
+      <workItem from="1519533972594" duration="5229000" />
+      <workItem from="1519612189983" duration="1554000" />
+      <workItem from="1519638978809" duration="5511000" />
+      <workItem from="1519646029767" duration="127000" />
+      <workItem from="1519697301233" duration="8491000" />
+      <workItem from="1519721298879" duration="2192000" />
+      <workItem from="1519785392835" duration="3406000" />
+      <workItem from="1519810907886" duration="171000" />
+      <workItem from="1520161953563" duration="3917000" />
+      <workItem from="1520332686111" duration="4318000" />
+      <workItem from="1520405424919" duration="664000" />
+      <workItem from="1520428948626" duration="1658000" />
+      <workItem from="1520511807697" duration="6318000" />
+      <workItem from="1520599567142" duration="6083000" />
+      <workItem from="1520685363308" duration="8340000" />
+      <workItem from="1520745261854" duration="142000" />
+      <workItem from="1520745553551" duration="401000" />
+      <workItem from="1520773679313" duration="2806000" />
+      <workItem from="1520860108807" duration="2682000" />
+      <workItem from="1520953459088" duration="2781000" />
+      <workItem from="1520956365818" duration="101000" />
+      <workItem from="1520996196687" duration="1017000" />
+      <workItem from="1521021807653" duration="729000" />
+      <workItem from="1521040008883" duration="1988000" />
+      <workItem from="1521122309886" duration="2131000" />
+      <workItem from="1521204272455" duration="3464000" />
+      <workItem from="1521298313753" duration="1960000" />
+      <workItem from="1521347755389" duration="1498000" />
+      <workItem from="1521386912437" duration="726000" />
+      <workItem from="1521446812048" duration="5745000" />
+      <workItem from="1521471310029" duration="3521000" />
+      <workItem from="1521537321220" duration="2782000" />
+      <workItem from="1521556004467" duration="5025000" />
+      <workItem from="1521561085848" duration="616000" />
+      <workItem from="1521601322573" duration="3051000" />
+      <workItem from="1521610441938" duration="215000" />
+      <workItem from="1521630994963" duration="4092000" />
+      <workItem from="1521636910871" duration="54000" />
+      <workItem from="1521715329734" duration="3649000" />
+      <workItem from="1521725389042" duration="90000" />
+      <workItem from="1521728299336" duration="632000" />
+      <workItem from="1521790231848" duration="1204000" />
+      <workItem from="1521815336793" duration="4514000" />
+      <workItem from="1521895108359" duration="6222000" />
+      <workItem from="1521946164086" duration="4622000" />
+      <workItem from="1521968459327" duration="5835000" />
+      <workItem from="1522031899542" duration="6095000" />
+      <workItem from="1522054763464" duration="11401000" />
+      <workItem from="1522072346618" duration="774000" />
+      <workItem from="1522118770921" duration="3453000" />
+      <workItem from="1522151553220" duration="6341000" />
+      <workItem from="1522210465954" duration="1829000" />
+      <workItem from="1522250194239" duration="874000" />
+      <workItem from="1522330604758" duration="6950000" />
+      <workItem from="1522338110605" duration="47000" />
+      <workItem from="1522397669438" duration="8504000" />
+      <workItem from="1522503491853" duration="5487000" />
+      <workItem from="1522556840771" duration="4222000" />
+      <workItem from="1522586297147" duration="1024000" />
+      <workItem from="1522587363584" duration="96000" />
+      <workItem from="1522587758743" duration="47000" />
+      <workItem from="1522588152904" duration="109000" />
+      <workItem from="1522588563620" duration="313000" />
+      <workItem from="1522588909220" duration="80000" />
+      <workItem from="1522668491489" duration="7098000" />
+      <workItem from="1522751958784" duration="840000" />
+      <workItem from="1522758048951" duration="4616000" />
+      <workItem from="1522809359667" duration="2025000" />
+      <workItem from="1522931802817" duration="3054000" />
+      <workItem from="1523015161515" duration="5233000" />
+      <workItem from="1523105833563" duration="1783000" />
+      <workItem from="1523155429543" duration="182000" />
+      <workItem from="1523253570708" duration="5251000" />
+      <workItem from="1523339409371" duration="45000" />
+      <workItem from="1523454276210" duration="104000" />
+      <workItem from="1523491551739" duration="837000" />
+      <workItem from="1523578554699" duration="2080000" />
+      <workItem from="1523709823782" duration="1260000" />
+      <workItem from="1523786927087" duration="898000" />
+      <workItem from="1523797228828" duration="307000" />
+      <workItem from="1523797576742" duration="68000" />
+      <workItem from="1523797779268" duration="4820000" />
+      <workItem from="1523837483730" duration="745000" />
+      <workItem from="1523923789440" duration="118000" />
+      <workItem from="1524010528674" duration="503000" />
+      <workItem from="1524060126526" duration="1516000" />
+      <workItem from="1524148888462" duration="70000" />
+      <workItem from="1524183188716" duration="1493000" />
+      <workItem from="1524314093299" duration="1082000" />
+      <workItem from="1524408944736" duration="1604000" />
+      <workItem from="1524443000290" duration="1164000" />
+      <workItem from="1524529939191" duration="206000" />
+      <workItem from="1524578831512" duration="2179000" />
+      <workItem from="1524667381728" duration="665000" />
+      <workItem from="1524751400089" duration="2752000" />
+      <workItem from="1524839556743" duration="760000" />
+      <workItem from="1524922577705" duration="729000" />
+      <workItem from="1524998136743" duration="61000" />
+      <workItem from="1525446716419" duration="371000" />
+      <workItem from="1525525523600" duration="670000" />
+      <workItem from="1525591772430" duration="40000" />
+      <workItem from="1525701841100" duration="1687000" />
+      <workItem from="1525740426143" duration="740000" />
+      <workItem from="1525878505909" duration="439000" />
+    </task>
+    <task id="LOCAL-00043" summary="明天11点百词斩笔试&#10;下午学习Redis哨兵">
+      <created>1521899252830</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1521899252830</updated>
+    </task>
+    <task id="LOCAL-00044" summary="明天11点百词斩笔试&#10;下午学习Redis哨兵">
+      <created>1521901267606</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1521901267606</updated>
+    </task>
+    <task id="LOCAL-00045" summary="百词斩笔试完成 第一题多考虑了负数的情况，难过">
+      <created>1521968621001</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1521968621001</updated>
+    </task>
+    <task id="LOCAL-00046" summary="leetcode中国开网了 ID:candy">
+      <created>1521986515913</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1521986515913</updated>
+    </task>
+    <task id="LOCAL-00047" summary="完成了2道动态规划题目">
+      <created>1522040720743</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1522040720743</updated>
+    </task>
+    <task id="LOCAL-00048" summary="明天阿里视频面试 好好准备！">
+      <created>1522059673813</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1522059673813</updated>
+    </task>
+    <task id="LOCAL-00049" summary="明天阿里视频面试 好好准备！">
+      <created>1522069291368</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1522069291368</updated>
+    </task>
+    <task id="LOCAL-00050" summary="网易笔试的时候深深体会到自己的不足，继续认真练习算法">
+      <created>1522163980845</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1522163980845</updated>
+    </task>
+    <task id="LOCAL-00051" summary="阿里技术面结束  有空写一份总结，">
+      <created>1522250737310</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1522250737310</updated>
+    </task>
+    <task id="LOCAL-00052" summary="工作找到了  算法还是每天要刷的">
+      <created>1522334493311</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1522334493313</updated>
+    </task>
+    <task id="LOCAL-00053" summary="工作找到了  算法还是每天要刷的">
+      <created>1522335834440</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1522335834440</updated>
+    </task>
+    <task id="LOCAL-00054" summary="工作找到了  算法还是每天要刷的">
+      <created>1522337975973</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1522337975973</updated>
+    </task>
+    <task id="LOCAL-00055" summary="滴滴一面结束！&#10;晚上7点半二面">
+      <created>1522404263930</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1522404263930</updated>
+    </task>
+    <task id="LOCAL-00056" summary="滴滴二面结束！&#10;等待三面">
+      <created>1522411838663</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1522411838663</updated>
+    </task>
+    <task id="LOCAL-00057" summary="日常刷刷题">
+      <created>1522504435361</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1522504435361</updated>
+    </task>
+    <task id="LOCAL-00058" summary="日常刷刷题">
+      <created>1522506218959</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1522506218959</updated>
+    </task>
+    <task id="LOCAL-00059" summary="日常刷刷题">
+      <created>1522510087281</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1522510087281</updated>
+    </task>
+    <task id="LOCAL-00060" summary="日常刷刷题">
+      <created>1522562474809</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1522562474810</updated>
+    </task>
+    <task id="LOCAL-00061" summary="日常刷刷题">
+      <created>1522679543681</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1522679543682</updated>
+    </task>
+    <task id="LOCAL-00062" summary="日常刷刷题">
+      <created>1522684025520</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1522684025521</updated>
+    </task>
+    <task id="LOCAL-00063" summary="日常刷刷题">
+      <created>1522760716724</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1522760716725</updated>
+    </task>
+    <task id="LOCAL-00064" summary="滴滴面试通过！&#10;期待">
+      <created>1522767679546</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1522767679546</updated>
+    </task>
+    <task id="LOCAL-00065" summary="阿里面试可能要被拒绝&#10;期待经过一番学习之后再去阿里遇见一个更好的自己">
+      <created>1522810610768</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1522810610769</updated>
+    </task>
+    <task id="LOCAL-00066" summary="确定去滴滴了 &#10;婉拒京东&#10;成长嘛">
+      <created>1522941220671</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1522941220672</updated>
+    </task>
+    <task id="LOCAL-00067" summary="已经准备好去滴滴了">
+      <created>1523016327171</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1523016327171</updated>
+    </task>
+    <task id="LOCAL-00068" summary="w完成了动态规划类问题">
+      <created>1523019343561</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1523019343561</updated>
+    </task>
+    <task id="LOCAL-00069" summary="w完成了动态规划类问题">
+      <created>1523105859625</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1523105859625</updated>
+    </task>
+    <task id="LOCAL-00070" summary="走了  今天出发 &#10;A new Story begins.">
+      <created>1523155543698</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1523155543698</updated>
+    </task>
+    <task id="LOCAL-00071" summary="到达北京  &#10;明天入职">
+      <created>1523255037712</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1523255037712</updated>
+    </task>
+    <task id="LOCAL-00072" summary="已经自己开始独立负责模块了">
+      <created>1523454327548</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1523454327549</updated>
+    </task>
+    <task id="LOCAL-00073" summary="每天上班很累 下班还要刷Leetcode &#10;辛苦自己了">
+      <created>1523492316201</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1523492316202</updated>
+    </task>
+    <task id="LOCAL-00074" summary="每天上班很累 下班还要刷Leetcode &#10;辛苦自己了">
+      <created>1523580100533</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1523580100533</updated>
+    </task>
+    <task id="LOCAL-00075" summary="加油 辛苦了">
+      <created>1523711125477</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1523711125477</updated>
+    </task>
+    <task id="LOCAL-00076" summary="完成了Leetcode算法初级篇">
+      <created>1523787820881</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1523787820884</updated>
+    </task>
+    <task id="LOCAL-00077" summary="新的一周开始了 &#10;Leetcode中级篇开始">
+      <created>1523837580980</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1523837580980</updated>
+    </task>
+    <task id="LOCAL-00078" summary="第二天">
+      <created>1523923818207</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1523923818207</updated>
+    </task>
+    <task id="LOCAL-00079" summary="第三天">
+      <created>1524010557882</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1524010557883</updated>
+    </task>
+    <task id="LOCAL-00080" summary="心情不好~">
+      <created>1524148924573</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1524148924573</updated>
+    </task>
+    <task id="LOCAL-00081" summary="心情不好~">
+      <created>1524232792026</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1524232792026</updated>
+    </task>
+    <task id="LOCAL-00082" summary="心情不好~">
+      <created>1524315157592</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1524315157593</updated>
+    </task>
+    <task id="LOCAL-00083" summary="新的一周开始了 要努力">
+      <created>1524409951816</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1524409951816</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Day1">
+      <created>1524443666824</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1524443666825</updated>
+    </task>
+    <task id="LOCAL-00085" summary="Day1">
+      <created>1524530075300</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1524530075301</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Day1">
+      <created>1524668018445</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1524668018447</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Day5">
+      <created>1524754124839</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1524754124840</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Day5">
+      <created>1525446878837</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1525446878838</updated>
+    </task>
+    <task id="LOCAL-00089" summary="update">
+      <created>1525526159373</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1525526159373</updated>
+    </task>
+    <task id="LOCAL-00090" summary="update">
+      <created>1525703492677</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1525703492677</updated>
+    </task>
+    <task id="LOCAL-00091" summary="update">
+      <created>1525741069747</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1525741069747</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="306988000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1552" height="840" extended-state="1" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4978425" weight="0.32906976" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.511471" side_tool="true" visible="true" weight="0.32896653" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32955772" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.62550604" weight="0.5327511" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6025641" weight="0.27656478" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.48852903" visible="true" weight="0.32896653" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49481866" visible="true" weight="0.23414305" />
+      <window_info anchor="right" id="Database" order="3" sideWeight="0.49393415" weight="0.09492988" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24973032" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24973032" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" sideWeight="0.5051814" side_tool="true" weight="0.2713053" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.462888" weight="0.32896653" />
+      <window_info anchor="right" id="Coverage" order="4" sideWeight="0.50606585" side_tool="true" visible="true" weight="0.007011866" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.47368422" weight="0.32896653" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.58899677" weight="0.29418606" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29989213" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4978425" weight="0.32906976" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32906976" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49137002" weight="0.47674417" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.8829558" weight="0.32906976" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.41100323" side_tool="true" visible="true" weight="0.14849187" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.4978425" weight="0.32906976" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="网易笔试的时候深深体会到自己的不足，继续认真练习算法" />
+    <MESSAGE value="阿里技术面结束  有空写一份总结，" />
+    <MESSAGE value="工作找到了  算法还是每天要刷的" />
+    <MESSAGE value="滴滴一面结束！&#10;晚上7点半二面" />
+    <MESSAGE value="滴滴二面结束！&#10;等待三面" />
+    <MESSAGE value="日常刷刷题" />
+    <MESSAGE value="滴滴面试通过！&#10;期待" />
+    <MESSAGE value="阿里面试可能要被拒绝&#10;期待经过一番学习之后再去阿里遇见一个更好的自己" />
+    <MESSAGE value="确定去滴滴了 &#10;婉拒京东&#10;成长嘛" />
+    <MESSAGE value="已经准备好去滴滴了" />
+    <MESSAGE value="w完成了动态规划类问题" />
+    <MESSAGE value="走了  今天出发 &#10;A new Story begins." />
+    <MESSAGE value="到达北京  &#10;明天入职" />
+    <MESSAGE value="已经自己开始独立负责模块了" />
+    <MESSAGE value="每天上班很累 下班还要刷Leetcode &#10;辛苦自己了" />
+    <MESSAGE value="加油 辛苦了" />
+    <MESSAGE value="完成了Leetcode算法初级篇" />
+    <MESSAGE value="新的一周开始了 &#10;Leetcode中级篇开始" />
+    <MESSAGE value="第二天" />
+    <MESSAGE value="第三天" />
+    <MESSAGE value="心情不好~" />
+    <MESSAGE value="新的一周开始了 要努力" />
+    <MESSAGE value="Day1" />
+    <MESSAGE value="Day5" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/linkedList/SortList.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/anything/Offer22.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/anything/Offer37.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/anything/Offer38.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/anything/Offer38.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/anything/Leetcode111.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/anything/Leetcode139.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/anything/LeetCode198.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/anything/Offer20.java</url>
+          <line>4</line>
+          <properties class="anything.Offer20" method="printRect">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/anything/Offer37.java</url>
+          <line>56</line>
+          <properties class="anything.Offer37" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/anything/Leetcode746.java</url>
+          <line>4</line>
+          <properties class="anything.Leetcode746.Solution" method="minCostClimbingStairs">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/anything/Leetcode660.java</url>
+          <line>15</line>
+          <properties class="anything.Leetcode660.Solution" method="tree2str">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/anything/Leetcode14.java</url>
+          <line>30</line>
+          <properties class="anything.Leetcode14" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/anything/Leetcode392.java</url>
+          <line>39</line>
+          <properties class="anything.Leetcode392" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/demo/LruHashMap1.java</url>
+          <line>19</line>
+          <properties class="demo.LruHashMap1" method="put">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/anything/leetcode/easy/Problem43.java</url>
+          <line>21</line>
+          <properties class="anything.leetcode.easy.Problem43" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="56" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="56" column="38" selection-start-line="56" selection-start-column="38" selection-end-line="56" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/easy/Problem34.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/easy/Problem33.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/easy/Problem32.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/easy/Problem31.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/easy/Problem30.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/easy/Problem29.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/easy/Problem35.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/LeetCode198.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/easy/Problem36.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5882">
+          <caret line="385" column="15" selection-start-line="385" selection-start-column="15" selection-end-line="385" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/easy/Problem37.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/easy/Problem38.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="36" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/easy/Problem39.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/easy/Problem28.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/easy/Problem44.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/easy/Problem45.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="61" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/easy/Problem46.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/easy/Problem40.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/easy/Problem42.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/easy/Problem43.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/easy/Problem41.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/didi/Problem3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/didi/Problem4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="5" selection-start-line="4" selection-start-column="3" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="88" column="29" selection-start-line="88" selection-start-column="29" selection-end-line="88" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5865">
+          <caret line="382" column="58" selection-start-line="382" selection-start-column="48" selection-end-line="382" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="52" column="11" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2805">
+          <caret line="198" column="6" selection-start-line="198" selection-start-column="6" selection-end-line="198" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="105" column="11" selection-start-line="105" selection-start-column="11" selection-end-line="105" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Leetcode13.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59772">
+          <caret line="3587" column="24" selection-start-line="3587" selection-start-column="24" selection-end-line="3587" selection-end-column="24" />
+          <folding>
+            <element signature="e#88329#88330#0" expanded="true" />
+            <element signature="e#88386#88387#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="97" selection-start-line="18" selection-start-column="97" selection-end-line="18" selection-end-column="97" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Leetcode17.java" />
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2913603" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2913603" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2913603" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2913603" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>leetcode</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2913603" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2913603" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
