@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
-public class Leetcode19 {
+public class Problem19 {
 
     class Solution {
         List<List<Integer>> ans = new LinkedList<>();
@@ -36,7 +36,7 @@ public class Leetcode19 {
 
 
     public static void main(String[] args) {
-        Solution solution = new Leetcode19().new Solution();
+        Solution solution = new Problem19().new Solution();
         solution.subsets(new int[]{1,2,3,4,5});
     }
 }
