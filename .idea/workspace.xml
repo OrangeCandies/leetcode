@@ -11,8 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66376958-b89a-4db3-beb4-7a4385545dee" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/anything/leetcode/mid/Problem33.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/anything/leetcode/mid/Problem34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anything/leetcode/mid/Problem34.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,24 +46,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Problem28.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem28.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Problem29.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem29.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Problem30.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem30.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -118,14 +100,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Problem33.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Problem33.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem33.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="63" column="56" selection-start-line="63" selection-start-column="56" selection-end-line="63" selection-end-column="56" />
+            <state relative-caret-position="1020">
+              <caret line="62" column="21" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem34.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem34.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem35.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem35.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -185,7 +188,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem32.java" />
         <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem33.java" />
         <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem34.java" />
         <option value="$PROJECT_DIR$/src/anything/leetcode/easy/Problem35.java" />
@@ -236,6 +238,7 @@
         <option value="$PROJECT_DIR$/src/anything/leetcode/mid/Problem37.java" />
         <option value="$PROJECT_DIR$/src/anything/leetcode/mid/Leetcode33.java" />
         <option value="$PROJECT_DIR$/src/anything/leetcode/mid/Problem33.java" />
+        <option value="$PROJECT_DIR$/src/anything/leetcode/mid/Problem34.java" />
       </list>
     </option>
   </component>
@@ -254,7 +257,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1940" />
@@ -294,7 +297,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -332,8 +334,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -363,20 +366,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Problem33">
+  <component name="RunManager" selected="Application.Problem34">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-    </configuration>
-    <configuration name="Problem20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="anything.leetcode.mid.Problem20" />
-      <module name="leetcode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="anything.leetcode.mid.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration name="Problem21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="anything.leetcode.mid.Problem21" />
@@ -402,6 +394,17 @@
     </configuration>
     <configuration name="Problem33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="anything.leetcode.mid.Problem33" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="anything.leetcode.mid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Problem34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anything.leetcode.mid.Problem34" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -477,19 +480,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list>
-      <item itemvalue="Application.Problem20" />
       <item itemvalue="Application.Problem21" />
       <item itemvalue="Application.Problem23" />
       <item itemvalue="Application.Problem37" />
       <item itemvalue="Application.Problem33" />
+      <item itemvalue="Application.Problem34" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem34" />
         <item itemvalue="Application.Problem33" />
         <item itemvalue="Application.Problem37" />
         <item itemvalue="Application.Problem23" />
         <item itemvalue="Application.Problem21" />
-        <item itemvalue="Application.Problem20" />
       </list>
     </recent_temporary>
   </component>
@@ -627,14 +630,9 @@
       <workItem from="1526475972844" duration="212000" />
       <workItem from="1526563680027" duration="897000" />
       <workItem from="1527329980737" duration="3053000" />
-      <workItem from="1527433652526" duration="2019000" />
-    </task>
-    <task id="LOCAL-00049" summary="明天阿里视频面试 好好准备！">
-      <created>1522069291368</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1522069291368</updated>
+      <workItem from="1527433652526" duration="2171000" />
+      <workItem from="1527511516815" duration="2583000" />
+      <workItem from="1527606095574" duration="626000" />
     </task>
     <task id="LOCAL-00050" summary="网易笔试的时候深深体会到自己的不足，继续认真练习算法">
       <created>1522163980845</created>
@@ -972,11 +970,18 @@
       <option name="project" value="LOCAL" />
       <updated>1526564526649</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="重新刷题">
+      <created>1527435726387</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1527435726389</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="324814000" />
+    <option name="totallyTimeSpent" value="328175000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -988,51 +993,51 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1552" height="840" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49730095" weight="0.32896653" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.47300944" weight="0.32896653" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.4048583" side_tool="true" visible="true" weight="0.27656478" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5175676" side_tool="true" visible="true" weight="0.329927" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32955772" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.62550604" weight="0.5327511" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.5951417" visible="true" weight="0.27656478" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.48380566" weight="0.32896653" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5937922" weight="0.27656478" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.48243243" visible="true" weight="0.329927" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49481866" visible="true" weight="0.2834008" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49481866" visible="true" weight="0.2939189" />
       <window_info anchor="right" id="Database" order="3" sideWeight="0.49393415" weight="0.09492988" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24973032" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24973032" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" sideWeight="0.5051814" side_tool="true" weight="0.2713053" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.45951417" weight="0.54876274" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4534413" weight="0.30713245" />
       <window_info anchor="right" id="Coverage" order="4" sideWeight="0.50606585" side_tool="true" visible="true" weight="0.007011866" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49932525" weight="0.32896653" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.47165993" weight="0.32896653" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.8829558" weight="0.32906976" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.58899677" weight="0.29418606" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29989213" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4978425" weight="0.32906976" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.58899677" weight="0.29418606" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.8829558" weight="0.32906976" />
       <window_info id="Image Layers" order="5" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -1084,7 +1089,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="工作找到了  算法还是每天要刷的" />
     <MESSAGE value="滴滴一面结束！&#10;晚上7点半二面" />
     <MESSAGE value="滴滴二面结束！&#10;等待三面" />
     <MESSAGE value="日常刷刷题" />
@@ -1109,7 +1113,8 @@
     <MESSAGE value="update" />
     <MESSAGE value="Update" />
     <MESSAGE value="完成了动态规划" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成了动态规划" />
+    <MESSAGE value="重新刷题" />
+    <option name="LAST_COMMIT_MESSAGE" value="重新刷题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1226,8 +1231,24 @@
           </properties>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem34.java</url>
+          <line>35</line>
+          <properties class="anything.leetcode.mid.Problem34.RandomizedSet" method="remove">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem34.java</url>
+          <line>20</line>
+          <properties class="anything.leetcode.mid.Problem34.RandomizedSet" method="insert">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="61" />
+      <option name="time" value="68" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -1261,20 +1282,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/easy/Problem40.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/easy/Problem42.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/anything/leetcode/easy/Problem43.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1601,11 +1608,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem33.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="63" column="56" selection-start-line="63" selection-start-column="56" selection-end-line="63" selection-end-column="56" />
+        <state relative-caret-position="1020">
+          <caret line="62" column="21" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem34.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anything/leetcode/mid/Problem35.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
